@@ -2,7 +2,7 @@
 
 namespace Project
 {
-    internal class Описание_Авто
+    public class Описание_Авто
     {
         private string название;
         private decimal цена;
